@@ -1,0 +1,3 @@
+{
+  "extends": ["github>ntnyq/configs//packages/renovate-config/default.json"]
+}
